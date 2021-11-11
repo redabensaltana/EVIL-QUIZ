@@ -62,11 +62,6 @@ int main() {
 	
 		printf("\n\n\t your result is : %d /20 \n",Result);
 	
-	if(Result<0){
-	Result = 0;
-	}
-	else 
-	Result=Result;
 	
 	if(Result==0)
 	printf("empty brain HAHAHA !!");
